@@ -1,5 +1,11 @@
 <img align="top" width = "1000" height = "500" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
-<h1 align="center">Hi 👋, I'm Luvkush Sharma</h1>
+<h1 align="center"> नमस्ते (Namaste), I'm Luvkush Sharma <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h3 align="center">I'm a Tech Enthusiast from India ❤</h3>
+  
+<h2>A 19 Y/O Tech Enthusiast🎯 from India. I'm passionate about Learning new languages.</h2>
+
+<p>A 1st year student pursuing Bachelors's in Computer Science Hons.🎓 from GLA University , Mathura 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to new languages✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Learning mode and working on my Data Structures and Algorithms skills 🤓.</p>
+
 <h3 align="center">In a learning mode</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif">
 
@@ -20,11 +26,52 @@
 <a href="https://www.hackerrank.com/luvkush sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="luvkush sharma" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luvkush8941&show_icons=true&locale=en&layout=compact" alt="luvkush8941" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luvkush8941&show_icons=true&locale=en" alt="luvkush8941" /></p>
+<div align="center">
+<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luvkush8941&" alt="luvkush8941" /></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+</div>
+
+
+<br >
+
+<!-- <p align="center">
+  <a>
+    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajat-sethi28&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
+  </a>
+</p> -->
+
+
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=luvkush8941&show_icons=true&locale=en" alt="luvkush8941" width="45%" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luvkush8941&" alt="luvkush8941" width="45%" />
+
+<br>
+
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p align="center">
+  <img src="https://github.com/Luvkush8941/Luvkush8941/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+<div align="center">
+
+### Show some ❤️ by starring ⭐ some of the repositories!
+ 
+ <br/>
+
+
+
+
+
