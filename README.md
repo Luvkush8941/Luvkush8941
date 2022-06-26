@@ -22,7 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luvkush-sharma-4581a3225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luvkush sharma" height="30" width="40" /></a>
+  
 <a href="https://www.codechef.com/users/gla_m_014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gla_m_014" height="30" width="40" /></a>
+  
 <a href="https://www.hackerrank.com/luvkush sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="luvkush sharma" height="30" width="40" /></a>
 </p>
 
@@ -40,15 +42,6 @@
 
 <br >
 
-<!-- <p align="center">
-  <a>
-    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajat-sethi28&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
-  </a>
-</p> -->
-
-
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
@@ -58,8 +51,10 @@
 
 <br>
 
+<div align="center">
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 <a href="https://www.linkedin.com/in/luvkush-sharma-4581a3225"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" align="center"/></a>
+</div>
 
 <div align="center">
 
