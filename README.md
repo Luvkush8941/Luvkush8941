@@ -2,7 +2,7 @@
 <h1 align="center"> नमस्ते (Namaste), I'm Luvkush Sharma <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <h3 align="center">I'm a Tech Enthusiast from India ❤</h3>
   
-<h2>A 19 Y/O Tech Enthusiast🎯 from India. I'm passionate about Learning new languages.</h2>
+<h2>A 21 Y/O Tech Enthusiast🎯 from India. I'm passionate about Learning new languages.</h2>
 
 <p>A 1st year student pursuing Bachelors's in Computer Science Hons.🎓 from GLA University , Mathura 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to new languages✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Learning mode and working on my Data Structures and Algorithms skills 🤓.</p>
 
